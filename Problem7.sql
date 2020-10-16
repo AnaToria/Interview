@@ -1,4 +1,3 @@
-use world;
 CREATE TABLE teacher (
     id INT(11) AUTO_INCREMENT PRIMARY KEY,
     firstname VARCHAR(30) NOT NULL,
